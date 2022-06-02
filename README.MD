@@ -1,8 +1,8 @@
 Install dependencies
-npm i
+"npm i"
 
 Initialize database and seed
-npx prisma migrate dev --name init
+"npx prisma migrate dev --name init"
 
 Login Credential
 username = profile
