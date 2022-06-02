@@ -8,6 +8,8 @@ Login Credential
 username = profile
 password = 1234
 
+Edit connection string in .env
+
 Create Profile
 POST	http://localhost:3000/api/createProfile
 application/json
